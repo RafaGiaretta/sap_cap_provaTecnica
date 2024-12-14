@@ -1,0 +1,6 @@
+﻿id_reserva;id_passageiro;id_horario_voo;assento;classe;status;data_reserva;preco
+R1;1;1c7041ea-01e6-4c0b-ad2f-dd776dfc73cd;12A;Econômica;Confirmada;2023-12-01;500.00
+R2;2;V002;15B;Executiva;Pendente;2023-12-02;1200.00
+R3;3;V003;22C;Econômica;Cancelada;2023-12-03;450.00
+R4;4;V004;10D;Primeira Classe;Confirmada;2023-12-04;2000.00
+R5;5;V005;18E;Econômica;Confirmada;2023-12-05;550.00
